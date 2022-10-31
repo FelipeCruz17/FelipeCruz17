@@ -2,7 +2,10 @@
 
 - 🔭 I’m currently working on finding a job at web development
 - 🌱 I’m currently learning front-end, focused on Reactjs. But also, web development ecosystem
-- 📫 How to reach me: feemattioli@gmail.com
+- 📫 How to reach me:
+
+<a href="https://www.linkedin.com/in/felipe-mattioli/" target="_blank"><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/></a>
+<a href="mailto:feemattioli@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height='35' width='35'/>
